@@ -1,0 +1,7 @@
+.contacts{
+	display: flex;
+	flex-wrap: wrap
+}
+.contact-card{
+	margin: 20px;
+}

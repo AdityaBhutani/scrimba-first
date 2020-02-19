@@ -1,0 +1,24 @@
+.jokes{
+	display: flex;
+	margin-left: auto;
+	margin-right: auto;
+	flex-wrap: wrap;
+	align-items: center;
+}
+.joke{
+	width: 400px;
+	margin: 30px;
+	margin-left: 40px;
+	text-align: center;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.question {
+  background-color: #4CAF50;
+  color: white;
+  padding: 60px;
+  font-size: 40px;
+  margin: 0px
+}
+.punchline{
+	padding: 10px;
+}
